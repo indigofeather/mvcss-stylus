@@ -1,7 +1,23 @@
 Changelog
 =========
 
-v4.0.5 - 2014-12-06
+4.0.6 - 2014-12-09
+------------------
+
+### Added
+
+- Nothing
+
+### Removed
+
+- Nothing
+
+### Fixed
+
+- Prefix Grid Component `device-type` mixin
+- Update `application.sass` imports to use single quotes
+
+4.0.5 - 2014-12-06
 -------------------
 
 ### Added

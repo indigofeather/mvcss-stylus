@@ -50,7 +50,7 @@
 //   Setup
 // -------------------------------------
 
-device-type($namespace = '')
+g-device-type($namespace = '')
 
   // ----- One Part ----- //
 
@@ -176,9 +176,9 @@ device-type($namespace = '')
 //   Creation
 // -------------------------------------
 
-device-type()
+g-device-type()
 
 for $device in $g-defaults
   @media screen and (min-width: $device[1])
-    device-type($device[0]+'--')
+    g-device-type($device[0]+'--')
 
