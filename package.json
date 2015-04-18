@@ -1,0 +1,23 @@
+{
+  "name": "mvcss-stylus",
+  "version": "4.0.13",
+  "description": "mvcss stylus",
+  "main": "application.styl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indigofeather/mvcss-stylus.git"
+  },
+  "keywords": [
+    "mvcss",
+    "stylus"
+  ],
+  "author": {
+    "name": "Lance He (aka indigofeather)",
+    "email": "indigofeather@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indigofeather/mvcss-stylus/issues"
+  },
+  "homepage": "https://github.com/indigofeather/mvcss-stylus"
+}
